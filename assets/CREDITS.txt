@@ -1,0 +1,18 @@
+ECHO — Operação Zero v2
+
+Arma 3D blaster-repeater.glb, salto jump_a.ogg e aterrissagem land.ogg:
+Kenney, Starter Kit FPS (assets CC0).
+https://github.com/KenneyNL/Starter-Kit-FPS
+https://creativecommons.org/publicdomain/zero/1.0/
+Modelo original copiado como weapon.glb. Sons convertidos para WAV para compatibilidade.
+Licença do código do kit preservada em KENNEY-LICENSE.md; nenhum código Godot do kit é usado.
+
+Three.js 0.169.0, loaders e utils: MIT (THREE-LICENSE.txt).
+Soldier.glb: exemplo de animação do repositório mrdoob/three.js.
+https://github.com/mrdoob/three.js/tree/dev/examples/models/gltf
+Texturas brick_diffuse.jpg (concrete.jpg), brick_bump.jpg e hardwood2_diffuse.jpg (wood.jpg):
+https://github.com/mrdoob/three.js/tree/dev/examples/textures
+
+Texturas procedurais de metal e piso, cenário, controlador de física,
+IA e sons WAV restantes criados para este protótipo.
+Nenhum arquivo do jogo comercial Bodycam é utilizado.
